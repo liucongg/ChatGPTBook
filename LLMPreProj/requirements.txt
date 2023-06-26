@@ -1,0 +1,11 @@
+apex==0.1
+deepspeed==0.8.3
+nltk==3.5
+numpy==1.19.2
+Requests==2.31.0
+scipy==1.6.1
+sentencepiece==0.1.95
+tensorboardX==1.8
+tensorboardX==2.6.1
+torch==1.9.0a0+df837d0
+tqdm==4.65.0

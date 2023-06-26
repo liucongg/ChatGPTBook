@@ -1,0 +1,7 @@
+numpy==1.24.2
+pandas==1.5.3
+tensorboard==2.11.0
+torch==1.13.1+cu116
+tqdm==4.64.1
+transformers==4.27.4
+trl==0.4.1

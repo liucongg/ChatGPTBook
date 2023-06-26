@@ -1,0 +1,5 @@
+numpy==1.24.2
+tensorboardX==2.6.1
+torch==1.13.1+cu116
+tqdm==4.64.1
+transformers==4.27.1
