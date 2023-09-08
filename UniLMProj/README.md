@@ -32,7 +32,7 @@
 | --- |--- |---|
 | pretrain_model | [百度云](https://pan.baidu.com/s/1sA9xf5ikjwDqXj9b7o4G8g) | 7h4a |
 | kuakua_robot_model |[百度云](https://pan.baidu.com/s/1DFw4P8o1iVBeUgKKVufrFA) |j954|
-| data |[百度云](https://pan.baidu.com/s/1PQKmcqLmN-x959E9LnSCQw) |dd0r|
+| data |[百度云](https://pan.baidu.com/s/1-fTaFTVwBSejSGCke-LM1g) |w8bd|
 
 ## 环境配置
 
