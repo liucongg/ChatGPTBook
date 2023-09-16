@@ -12,6 +12,14 @@
 - [第8章](PPOProj/README.md): 基于PPO的正向情感倾向性生成项目实战
 - [第9章](RLHFProj/README.md): 基于文档生成问题任务的类ChatGPT实战
 
+## 增补内容
+
+由于大模型技术发展迅速，一些新的前言内容书本无法快速更新，笔者会在此增补一些大模型相关知识内容，以补充书中的缺失。
+
+- [Llama2相关技术技术细节](https://zhuanlan.zhihu.com/p/644671690)
+- [BaiChuan2相关技术技术细节](https://zhuanlan.zhihu.com/p/656570703)
+
+
 ## Citing
 
 待补充

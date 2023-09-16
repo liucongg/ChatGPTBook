@@ -32,8 +32,9 @@
 | --- |--- |---|
 | pretrain_model | [百度云](https://pan.baidu.com/s/1sA9xf5ikjwDqXj9b7o4G8g) | 7h4a |
 | kuakua_robot_model |[百度云](https://pan.baidu.com/s/1DFw4P8o1iVBeUgKKVufrFA) |j954|
-| data |[百度云](https://pan.baidu.com/s/1-fTaFTVwBSejSGCke-LM1g) |w8bd|
+| data |[百度云](https://pan.baidu.com/s/1cSagWQTYRUICq7Wr5NIVIA) |3sz3|
 
+由于敏感词表中包含大量敏感词，导致百度云的data链接会失效，因此将敏感词之间放到项目的data目录下。
 ## 环境配置
 
 模型训练或推理所需环境，请参考requirements.txt文件。
